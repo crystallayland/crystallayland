@@ -9,7 +9,13 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📝  Certifications</h2>
-<br/><a href="https://coursera.org/share/77d737d71b7fc87a3654f5b3df065f91">Google Project Management</a>
+
+- <a href="https://www.isc2.org">Cybersecurity Certification</a> </b>
+- <a href="https://www.qualys.com">PCI Compliance</a> </b>
+- <a href="https://www.qualys.com">Policy Compliance</a> </b>
+- <a href="https://www.qualys.com">Vulnerability Management</a> </b>
+- Project Management Advancement Program (PMAP) Training </b>
+- <a href="https://coursera.org/share/77d737d71b7fc87a3654f5b3df065f91">Google Project Management</a> </b>
 
 <h2>📺 Popular YouTube Videos</h2>
 
