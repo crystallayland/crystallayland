@@ -6,6 +6,7 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📝  Certifications</h2>
+<br/><a href="https://coursera.org/share/77d737d71b7fc87a3654f5b3df065f91">Google Project Management</a>
 
 <h2>📺 Popular YouTube Videos</h2>
 
