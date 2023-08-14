@@ -1,7 +1,7 @@
 <h1>Hi, I'm Crystal! <br/><a href="https://www.linkedin.com/in/crystallayland/">Cybersecurity Professional</a>
 
 <h2>💫About Me:</h2>
-<br> - 🔭 I’m currently working on completing the <a href="https://www.isc2.org/">(isc)2 Cybersecurity Certification</a>.<br> - 🌱 I’m currently learning about Security Operations<br> - 📫 How to reach me: @crystallayland on LinkedIn<br>- 🤔 I’m looking for help with finding a cybersecurity job.<br>- 😄 Pronouns: she/her<br>- ⚡ Fun fact: I have over 70 house plants.<br>
+<br> - 🔭 I’m currently working on completing the <a href="https://www.isc2.org/">(isc)2 Cybersecurity Certification</a>.<br> - 🌱 I’m currently learning about the software development lifecycle. <br> - 📫 How to reach me: @crystallayland on LinkedIn<br>- 🤔 I’m looking for help with...<br>- 😄 Pronouns: she/her<br>- ⚡ Fun fact: I have over 70 house plants.<br>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
