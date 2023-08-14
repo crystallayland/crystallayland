@@ -3,9 +3,9 @@
 <h2>💫About Me:</h2>
 <br> - 🔭 I’m currently working on completing the <a href="https://www.isc2.org/">(isc)2 Cybersecurity Certification</a>.<br> - 🌱 I’m currently learning about the software development lifecycle. <br> - 📫 How to reach me: @crystallayland on LinkedIn<br>- 🤔 I’m looking for help with...<br>- 😄 Pronouns: she/her<br>- ⚡ Fun fact: I have over 70 house plants.<br>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>NOT MY WORK. PLACEHOLDER ONLY. Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📝  Certifications</h2>
