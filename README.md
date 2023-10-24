@@ -1,4 +1,4 @@
-<h1>Hi, I'm Crystal! <br/><a href="https://www.linkedin.com/in/crystallayland/">Cybersecurity Professional</a>
+<h1>Hi, I'm Crystal! <br/><a href="https://www.linkedin.com/in/crystallayland/">Finance & Accounting Professional, Software Development Enthusiast</a>
 
 <h2>💫About Me:</h2>
 <br> - 🔭 I’m currently working on various software development projects and completing a bootcamp on the software development lifecycle.<br> - 🌱 I’m currently learning about DevOps. <br> - 📫 How to reach me: @crystallayland on LinkedIn<br>- 🤔 I’m looking for help with...<br>- 😄 Pronouns: she/her<br>- ⚡ Fun fact: I have over 70 house plants.<br>
