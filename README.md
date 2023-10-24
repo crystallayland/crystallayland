@@ -5,8 +5,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>NOT MY WORK. PLACEHOLDER ONLY. Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Teamable Software Development Project</b>
+  - [Software Develpment Process](https://github.com/crystallayland/Teamable)
 
 <h2>📝  Certifications</h2>
 
